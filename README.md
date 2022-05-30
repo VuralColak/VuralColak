@@ -7,7 +7,7 @@
  
 </div>
 <div id="badges" align="center" >
- <img src="https://komarev.com/ghpvc/?username=VuralColak&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=VuralColak&style=flat-square&color=blue" alt="" width="200px" height="50px"/>
 
   </div>
  
