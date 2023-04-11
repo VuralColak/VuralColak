@@ -21,7 +21,7 @@
 </div>
 
 ### :man_technologist: About Me :
-Full-Stack Web Devoloper
+Full-Stack Software Tester and Full-Stack Web Devoloper
 ------------------------
 
 I'm a self-motivated, ambitious Software Developer, always looking for the next challenge. I enjoy bringing high value to a team and am always eager to learn and use the latest technology to deliver creative solutions to modern problems.
