@@ -24,11 +24,11 @@
 Full-Stack Software Tester and Full-Stack Web Devoloper
 ------------------------
 
-I'm a self-motivated, ambitious Software Developer, always looking for the next challenge. I enjoy bringing high value to a team and am always eager to learn and use the latest technology to deliver creative solutions to modern problems.
+I'm a self-motivated, ambitious Software Tester and Software Developer, always looking for the next challenge. I enjoy bringing high value to a team and am always eager to learn and use the latest technology to deliver creative solutions to modern problems.
 
 Soft skills: \*Creavity \*Leadership \*Teamwork
 
-Hard skills: \*Git - GitHub \*Markdown \*HTML \*CSS \*JavaScript
+Hard skills: \*Git - GitHub \*Markdown \*HTML \*CSS \*Bootstrap \*JavaScript \*React \*JAVA \*Selenium \*Cucumber \*MySQL \*Postman \*JUnit \*TestNG
 
 * 🌍  I'm based in NRW, Germany
 * ✉️  You can contact me at [vuralcolakcontact@gmail.com](mailto:vuralcolakcontact@gmail.com)
