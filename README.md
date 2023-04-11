@@ -32,7 +32,7 @@ Hard skills: \*Git - GitHub \*Markdown \*HTML \*CSS \*Bootstrap \*JavaScript \*R
 
 * 🌍  I'm based in NRW, Germany
 * ✉️  You can contact me at [vuralcolakcontact@gmail.com](mailto:vuralcolakcontact@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning Cypress
 
 <a href="https://www.github.com/VuralColak" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/VuralColak?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
